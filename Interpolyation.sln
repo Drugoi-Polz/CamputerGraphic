@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpolyation", "Interpolyation\Interpolyation.csproj", "{FCD07903-6229-4470-BEF7-FDC2E629EB13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD07903-6229-4470-BEF7-FDC2E629EB13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD07903-6229-4470-BEF7-FDC2E629EB13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD07903-6229-4470-BEF7-FDC2E629EB13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD07903-6229-4470-BEF7-FDC2E629EB13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A658B8C-D2F7-49DE-8C09-BFB2B21914E6}
+	EndGlobalSection
+EndGlobal
